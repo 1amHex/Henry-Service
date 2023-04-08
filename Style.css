@@ -1,0 +1,23 @@
+h1 {
+    background-color: navy;
+    color:white ;
+    font-size: 38pt;
+}
+h2 {
+    background-color: navy;
+    color:white ;
+    font-size: 32pt;
+}
+body {
+    background: wheat;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 16pt;
+}
+img {
+    width: 70px;
+    padding: 0.1px;
+    margin: 5px 2px;
+}
